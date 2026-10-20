@@ -3,6 +3,22 @@
 > **Aplikasi Rekap Capaian Kinerja Harian ASN & Profesional Modern untuk Windows 10/11.**
 > Menghadirkan konsep *Top-Center Floating Island* yang elegan, maskot 3D TV-Headed Robot interaktif, validasi biner dokumen anti-spoofing, ekspor resmi Microsoft Word (`.docx`), dan Asisten AI lokal.
 
+[![GitHub Release](https://img.shields.io/github/v/release/dendyadinirwana/nilaikinerja-windows?color=3B82F6&logo=windows&label=Windows%20Release)](https://github.com/dendyadinirwana/nilaikinerja-windows/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## 📥 Unduh Langsung (Siap Pakai untuk Windows)
+
+Unduh installer resmi dari halaman [GitHub Releases](https://github.com/dendyadinirwana/nilaikinerja-windows/releases/tag/v1.0.0):
+
+| Berkas Installer | Ukuran | Keterangan | Tautan Unduh |
+| :--- | :--- | :--- | :--- |
+| **`NilaiKinerja_1.0.0_x64-setup.exe`** | **1.52 MB** | Installer mandiri NSIS (*Disarankan*) | [**Unduh .exe**](https://github.com/dendyadinirwana/nilaikinerja-windows/releases/download/v1.0.0/NilaiKinerja_1.0.0_x64-setup.exe) |
+| **`NilaiKinerja_1.0.0_x64_en-US.msi`** | **2.20 MB** | Paket Windows Installer MSI | [**Unduh .msi**](https://github.com/dendyadinirwana/nilaikinerja-windows/releases/download/v1.0.0/NilaiKinerja_1.0.0_x64_en-US.msi) |
+
+*Persyaratan Sistem: Windows 10 / Windows 11 (64-bit).*
+
 ---
 
 ## 🌟 Fitur Utama
